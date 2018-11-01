@@ -12,3 +12,9 @@ Tools in plan.
   5. H2  for in memory database
   6. Java 8 with lamda 
   7. Junit With mockito
+
+
+
+Sample Get contact rest service:
+
+http://localhost:8080/getContact?name=FirstName
